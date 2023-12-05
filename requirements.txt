@@ -1,5 +1,5 @@
 Telethon==1.33.0
 cryptg
 dnspython
-https://github.com/vasusen-code/ethon/archive/refs/tags/v0.1.4.zip
+https://codeload.github.com/vasusen-code/ethon/zip/refs/tags/v0.1.5
 tgcrypto
